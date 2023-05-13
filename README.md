@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Mobile App Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning GO lang.
 - 👯 I’m looking to collaborate on any open-project
 - 🤔 I’m looking for help with new YouTube channel 
 - 💬 Ask me about anything 
