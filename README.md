@@ -26,6 +26,7 @@
 <br /> 
 
 🏆 Notable Projects<br /> 
+
 Here are some highlights from my 100+ personal projects:
 
 - Soowgood: [Playstore](https://play.google.com/store/apps/details?id=com.oneworld.soowgood&hl=en) 
