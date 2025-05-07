@@ -60,6 +60,5 @@ playstore-[Link](https://play.google.com/store/apps/details?id=com.oneworld.soow
 - Reach 10k stars across repositories<br /> <br /> 
 - Contribute to Flutter framework<br /> <br /> 
 - Mentor 100 aspiring developers<br /> <br /> 
-<br /> <br /> <br /> 
 
 ⭐️ From jbjason
