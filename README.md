@@ -41,7 +41,7 @@ playstore-[Link](https://play.google.com/store/apps/details?id=com.oneworld.soow
 
 📈 GitHub Stats<br />
 
-<img width=30% height=14% src= "https://github.com/user-attachments/assets/27e9a467-f2df-4d28-aa14-31bb6904cb6a">  <img width=30% height=14% src= "https://github.com/user-attachments/assets/d5a19557-9f00-48df-94c1-77ec20613242">
+<img width=40% height=90% src= "https://github.com/user-attachments/assets/1f71a06f-c662-495b-89a7-0e59ac2268c4">  <img width=30% height=14% src= "https://github.com/user-attachments/assets/d5a19557-9f00-48df-94c1-77ec20613242">
 <br /><br />
 
 🛠️ Current Projects<br />
