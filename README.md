@@ -6,24 +6,20 @@
 - Flutter (Dart) - Expert in complex UI implementations<br /> <br /> 
 - Native Android (Java/Kotlin)<br /> <br /> 
 - iOS Development (Swift)<br /> <br />  
-<br />
 
 💻 Backend & Databases<br /> 
-- SQL Server (Advanced query optimization)<br /> <br /> 
+- SQL Server (Advanced query optimization)<br /> 
 - RESTful API design & integration<br /> <br /> 
 - Go, C/C++ for performance-critical components<<br /> <br /> 
-<br />
 
 🎨 Design Implementation<br />
 - Pixel-perfect Figma/Dribbble to code conversion<br /> <br /> 
 - Custom animations and transitions<br /> <br /> 
 - Responsive UI design<br /> <br /> 
-<br />
 
 🚀 Deployment
 - Play Store & App Store publication expertise<br /> <br /> 
-- CI/CD pipelines for mobile apps<br /> <br /> 
-<br /> 
+- CI/CD pipelines for mobile apps<br /> <br />  
 
 🏆 Notable Projects<br /> 
 
@@ -48,7 +44,6 @@ Here are some highlights from my 100+ personal projects:
 - Building a revolutionary cross-platform productivity app<br /> <br /> 
 - Developing a high-performance database wrapper in Go<br /> <br /> 
 - Creating UI component library for Flutter<br /> <br /> 
-<br />
 
 📫 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulla-al-jubayer-a45984254/)
