@@ -28,15 +28,14 @@
 🏆 Notable Projects<br /> 
 Here are some highlights from my 100+ personal projects:
 
-- Soowgood:
-playstore-[Link](https://play.google.com/store/apps/details?id=com.oneworld.soowgood&hl=en) 
-  [Link](https://apps.apple.com/in/app/soowgood/id1659850704)- Featured on Play Store (5k+ downloads)
+- Soowgood: [Playstore](https://play.google.com/store/apps/details?id=com.oneworld.soowgood&hl=en) 
+  [Appstore](https://apps.apple.com/in/app/soowgood/id1659850704)- Featured on Play Store (5k+ downloads)
 <br /> <br /> 
-- Soowgood Provider [Link](https://play.google.com/store/apps/details?id=com.oneworld.soowgood_professional&hl=en)
- [https://apps.apple.com/in/app/soowgood-provider/id6740856967] -Featured on Play Store (50+ downloads)
+- Soowgood Provider [Playstore](https://play.google.com/store/apps/details?id=com.oneworld.soowgood_professional&hl=en)
+ [Appstore](https://apps.apple.com/in/app/soowgood-provider/id6740856967) -Featured on Play Store (50+ downloads)
 <br /> <br /> 
 - Doorap:
- [https://apps.apple.com/in/app/doorap/id6740035750z] 
+ [AppStore](https://apps.apple.com/in/app/doorap/id6740035750z)
 <br />
 
 📈 GitHub Stats<br />
