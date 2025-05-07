@@ -8,7 +8,7 @@
 - iOS Development (Swift)<br /> <br />  
 
 💻 Backend & Databases<br /> 
-- SQL Server (Advanced query optimization)<br /> 
+- SQL Server (Advanced query optimization)<br /> <br /> 
 - RESTful API design & integration<br /> <br /> 
 - Go, C/C++ for performance-critical components<<br /> <br /> 
 
