@@ -1,80 +1,65 @@
 🚀 Cross-Platform Mobile App Developer specializing in beautiful, high-performance applications
 
-🔧 Technologies & Skills
-📱 Mobile Development
-Flutter (Dart) - Expert in complex UI implementations
+🔧 Technologies & Skills<br /> <br /> 
+📱 Mobile Development<br />
 
-Native Android (Java/Kotlin)
+- Flutter (Dart) - Expert in complex UI implementations<br /> <br /> 
+- Native Android (Java/Kotlin)<br /> <br /> 
+- iOS Development (Swift)<br /> <br />  
+<br />
 
-iOS Development (Swift)
+💻 Backend & Databases<br /> 
+- SQL Server (Advanced query optimization)<br /> <br /> 
+- RESTful API design & integration<br /> <br /> 
+- Go, C/C++ for performance-critical components<<br /> <br /> 
+<br />
 
-
-💻 Backend & Databases
-SQL Server (Advanced query optimization)
-
-RESTful API design & integration
-
-Go, C/C++ for performance-critical components
-
-
-🎨 Design Implementation
-Pixel-perfect Figma/Dribbble to code conversion
-
-Custom animations and transitions
-
-Responsive UI design
-
+🎨 Design Implementation<br />
+- Pixel-perfect Figma/Dribbble to code conversion<br /> <br /> 
+- Custom animations and transitions<br /> <br /> 
+- Responsive UI design<br /> <br /> 
+<br />
 
 🚀 Deployment
-Play Store & App Store publication expertise
+- Play Store & App Store publication expertise<br /> <br /> 
+- CI/CD pipelines for mobile apps<br /> <br /> 
+<br /> 
 
-CI/CD pipelines for mobile apps
-
-
-🏆 Notable Projects
+🏆 Notable Projects<br /> 
 Here are some highlights from my 100+ personal projects:
 
-Soowgood:
-playstore-[Link](https://play.google.com/store/apps/details?id=com.oneworld.soowgood&hl=en) - Featured on Play Store (5k+ downloads)
-appstore- [Link](https://apps.apple.com/in/app/soowgood/id1659850704)
+- Soowgood:
+playstore-[Link](https://play.google.com/store/apps/details?id=com.oneworld.soowgood&hl=en) 
+  [Link](https://apps.apple.com/in/app/soowgood/id1659850704)- Featured on Play Store (5k+ downloads)
+<br /> <br /> 
+- Soowgood Provider [Link](https://play.google.com/store/apps/details?id=com.oneworld.soowgood_professional&hl=en)
+ [https://apps.apple.com/in/app/soowgood-provider/id6740856967] -Featured on Play Store (50+ downloads)
+<br /> <br /> 
+- Doorap:
+ [https://apps.apple.com/in/app/doorap/id6740035750z] 
+<br />
 
-Soowgood Provider:
-playstore: [Link](https://play.google.com/store/apps/details?id=com.oneworld.soowgood_professional&hl=en) - Featured on Play Store (50+ downloads)
-appstore: https://apps.apple.com/in/app/soowgood-provider/id6740856967
+📈 GitHub Stats<br />
 
-Doorap:
-appstore: https://apps.apple.com/in/app/doorap/id6740035750
+<img width=30% height=14% src= "https://github.com/user-attachments/assets/27e9a467-f2df-4d28-aa14-31bb6904cb6a">  <img width=30% height=14% src= "https://github.com/user-attachments/assets/d5a19557-9f00-48df-94c1-77ec20613242">
+<br /><br />
 
-
-📈 GitHub Stats
-<img width=30% height=14% src= "https://github.com/user-attachments/assets/27e9a467-f2df-4d28-aa14-31bb6904cb6a">
-      
-
-Top Languages
-<img width=30% height=14% src= "https://github.com/user-attachments/assets/d5a19557-9f00-48df-94c1-77ec20613242">
-
-
-🛠️ Current Projects
-Building a revolutionary cross-platform productivity app
-
-Developing a high-performance database wrapper in Go
-
-Creating UI component library for Flutter
-
+🛠️ Current Projects<br />
+- Building a revolutionary cross-platform productivity app<br /> <br /> 
+- Developing a high-performance database wrapper in Go<br /> <br /> 
+- Creating UI component library for Flutter<br /> <br /> 
+<br />
 
 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/abdulla-al-jubayer-a45984254/)
-
-🐦 [Twitter](https://x.com/JbJason_009)
-
-📧 jubayeral040@gmail.com
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulla-al-jubayer-a45984254/)
+- 🐦 [Twitter](https://x.com/JbJason_009)
+- 📧 jubayeral040@gmail.com
+<br />
 
 🎯 GitHub Goals
-Reach 10k stars across repositories
-
-Contribute to Flutter framework
-
-Mentor 100 aspiring developers
+- Reach 10k stars across repositories<br /> <br /> 
+- Contribute to Flutter framework<br /> <br /> 
+- Mentor 100 aspiring developers<br /> <br /> 
+<br /> <br /> <br /> 
 
 ⭐️ From jbjason
