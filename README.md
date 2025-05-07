@@ -46,8 +46,8 @@ Here are some highlights from my 100+ personal projects:
 - Creating UI component library for Flutter<br /> <br /> 
 
 📫 Let's Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdulla-al-jubayer-a45984254/)
-- 🐦 [Twitter](https://x.com/JbJason_009)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulla-al-jubayer-a45984254/)<br /> <br /> 
+- 🐦 [Twitter](https://x.com/JbJason_009)<br /> <br />
 - 📧 jubayeral040@gmail.com
 <br />
 
