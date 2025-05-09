@@ -3,9 +3,9 @@
 🔧 Technologies & Skills<br /> <br /> 
 📱 Mobile Development<br />
 
-- Flutter (Dart) - Expert in complex UI implementations<br /> <br /> 
-- Native Android (Java/Kotlin)<br /> <br /> 
-- iOS Development (Swift)<br /> <br />  
+- Flutter (Dart) - Expert in complex UI implementations<br />
+- Native Android (Java/Kotlin)<br />
+- iOS Development (Swift)<br />  
 
 💻 Backend & Databases<br /> 
 - SQL Server (Advanced query optimization)<br /> <br /> 
