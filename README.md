@@ -66,6 +66,6 @@ Here are some highlights from my 100+ personal projects:
 - Reach 10k stars across repositories<br /> 
 - Contribute to Flutter framework<br />
 - Mentor 100 aspiring developers
-- <br /> 
+<br /> 
 
 ⭐️ From jbjason
