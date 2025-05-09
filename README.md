@@ -54,7 +54,8 @@ Here are some highlights from my 100+ personal projects:
 🛠️ Current Projects<br />
 - Building a revolutionary cross-platform productivity app<br /> 
 - Developing a high-performance database wrapper in Go<br />
-- Creating UI component library for Flutter<br />
+- Creating UI component library for Flutter
+<br />
 
 📫 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulla-al-jubayer-a45984254/)<br /> 
