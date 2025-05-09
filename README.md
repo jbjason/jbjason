@@ -5,17 +5,20 @@
 
 - Flutter (Dart) - Expert in complex UI implementations<br />
 - Native Android (Java/Kotlin)<br />
-- iOS Development (Swift)<br />  
+- iOS Development (Swift)
+<br />  
 
 💻 Backend & Databases<br /> 
 - SQL Server (Advanced query optimization)<br />
 - RESTful API design & integration<br /> 
-- Go, C/C++ for performance-critical components<<br /> <br /> 
+- Go, C/C++ for performance-critical components
+<br />
 
 🎨 Design Implementation<br />
 - Pixel-perfect Figma/Dribbble to code conversion<br />
 - Custom animations and transitions<br /> 
-- Responsive UI design<br /> <br />
+- Responsive UI design
+<br />
 
 🚀 Deployment<br />
 - Play Store & App Store publication expertise<br />
